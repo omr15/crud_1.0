@@ -2,6 +2,8 @@
 include("conexion.php");
 $con=conectar();
 
+
+//hola maquinaaaaa
 $cod_estudiante=$_POST['cod_estudiante'];
 $dni=$_POST['dni'];
 $nombres=$_POST['nombres'];
